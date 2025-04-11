@@ -2,7 +2,7 @@ package org.example.stack;
 
 /**
  *
- * @author aluno
+ * @author Bruno
  */
 public class Stack {
     private int maxSize;      // Tamanho máximo da pilha
